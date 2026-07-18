@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0032_000-T.yaml, hash: 'sha256:9ad7590522401e92cfe42ba3b6d83c9d2c503ff46d1e1aa78c0390e1977163e1'}
   - {seq: 1, filename: KR6a0032_001-T.yaml, hash: 'sha256:b901ed8f7cbe5adcde6e2a19428ce944bc27eb8e448e0bb17a689ce40a5b5b20'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0032_000-T.markers.yaml, hash: 'sha256:af5f470a25a0aac7f16f6c15e45365743a8bda8c621bf08d4b7b7b0b5f197e43'}
+  - {seq: 0, role: markers, filename: assets/KR6a0032_000-T.markers.yaml, hash: 'sha256:c93d456c0361103be95120e8340cff089a170d31a3fd471ab2ec7bd3cbbcbe4c'}
   - {seq: 1, role: markers, filename: assets/KR6a0032_001-T.markers.yaml, hash: 'sha256:18153b91fbad7cb74b37ae14dc548de88993d4060cc7cdd56e217fa13509f63a'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說四諦經
   type: juan
   level: 1
-hash: sha256:1de3ae2537b0d0cda0b2f5849db74bf3ba1b8842c720aee9f6a9a7a029dd4083
+hash: sha256:23b4b93badcd9f3b754ce70f139fc75f5c04dfce1c920b7e21f842511a1ea1d6
